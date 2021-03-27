@@ -7,6 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 阿靖的简历
 阿靖毕业于哈尔滨学院，电子信息工程系，本科专业：电子信息工程，
 校内项目实践
+让ttttt
+iopml
+
+## 不能，哦，，，
 
 ```markdown
 Syntax highlighted code block
