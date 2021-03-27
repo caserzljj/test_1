@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/caserzljj/ajing.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 阿靖的简历
+阿靖毕业于哈尔滨学院，电子信息工程系，本科专业：电子信息工程，
+校内项目实践
 
 ```markdown
 Syntax highlighted code block
